@@ -50,11 +50,3 @@ public class SegundaTela<btnSim, btnNao> extends AppCompatActivity {
     }
 }
 
-
-
-
-
-
-// {
-  //      ;
-    //    //
