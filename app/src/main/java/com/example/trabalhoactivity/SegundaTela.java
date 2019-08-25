@@ -12,7 +12,6 @@ import android.widget.Toast;
 
 public class SegundaTela<btnSim, btnNao> extends AppCompatActivity {
 
-    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_segunda_tela);
